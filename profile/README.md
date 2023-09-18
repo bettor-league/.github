@@ -1,1 +1,1 @@
-# .github
+## Hey, this is bettor-league 👋
